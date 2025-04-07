@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- PhD student at Hanover University of Applied Sciences and Arts. 
+- Research area: APT attack detection through anomaly detection. 
+- Focus: Modeling system behavior as a graph to learn normal behavior using GNN and one-class learning methods.
 <!--
 **robhta/robhta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
