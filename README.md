@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- PhD student at Hanover University of Applied Sciences and Arts. 
+- PhD student at Hanover University of Applied Sciences and Arts.
+- It is a cooperative PhD with the Bundeswehr University Munich. 
 - Research area: APT attack detection through anomaly detection. 
 - Focus: Modeling system behavior as a graph to learn normal behavior using GNN and one-class learning methods.
 <!--
